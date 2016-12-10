@@ -1,6 +1,8 @@
 # coding: utf-8
 require 'dxruby'
 
+#　これはサンプルのコードです。
+
 require_relative 'player'
 require_relative 'enemy'
 require_relative 'bullet'
